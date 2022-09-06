@@ -7,7 +7,7 @@ app.get("/primeira-rota", (request,response) => {
     })
 });
 
-app.listen(4002, () => console.log("Servidor está rodando na porta 4002!"))
+app.listen(3000, () => console.log("Servidor está rodando na porta 3000!"))
 
 
 // PAREI NO MINUTO 42 do vídeo

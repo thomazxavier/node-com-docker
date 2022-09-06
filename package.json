@@ -4,7 +4,8 @@
   "description": "Primeiro Projeto 2022 - THCX",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "author": "Thomaz Xavier",
   "license": "MIT",

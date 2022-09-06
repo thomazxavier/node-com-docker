@@ -24,4 +24,4 @@ http
     );
 
 })
-.listen(4001, () => console.log("Servidor está rodando na porta 4001!"));
+.listen(3000, () => console.log("Servidor está rodando na porta 4001!"));
